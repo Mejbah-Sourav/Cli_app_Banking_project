@@ -1,9 +1,4 @@
 {
-    "balance": 7200,
-    "jamil@gmail.com": {
-        "password": "$2y$10$1z0qOad4QvKJPFFPRy0.FO2rxEjIje4fMNcLI9hZ0s.DI2R\/lyXXS",
-        "balance": 3000
-    },
     "sourav": {
         "password": "$2y$10$7faqtexIfjVyKRqAqRoWHOq\/a8VE65XZaTIYH9U6dg8Rz1CPEVml2",
         "balance": 4500
